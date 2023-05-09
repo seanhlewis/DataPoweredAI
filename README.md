@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/96705270/237034372-30931254-c493-4bdb-a3a0-bb92d919273b.png" width="400" />
+<img src="https://user-images.githubusercontent.com/96705270/237034372-30931254-c493-4bdb-a3a0-bb92d919273b.png" width="800" />
 
 # Making artificial intelligence accessible for everyone
 
