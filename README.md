@@ -57,10 +57,10 @@ Below are some examples created by the DataPowered AI team to showcase a few of 
 
 Click any example below to check it out!
 
-<a href="https://datapowered.ai/preview/CompanyFAQ"><img src="https://github.com/seanhlewis/DataPoweredAI/assets/96705270/e72f3b74-6c26-4825-82e2-40c47e62eddf" width="200"/></a>
-<a href="https://datapowered.ai/preview/RestaurantMenu"><img src="https://github.com/seanhlewis/DataPoweredAI/assets/96705270/df5ca678-f761-45ca-8239-81cee321ebbb" width="200"/></a>
-<a href="https://datapowered.ai/preview/Wikipedia"><img src="https://github.com/seanhlewis/DataPoweredAI/assets/96705270/da90edc3-7024-4cbd-846d-610853f76326" width="200"/></a>
-<a href="https://datapowered.ai/preview/CityData"><img src="https://github.com/seanhlewis/DataPoweredAI/assets/96705270/6319b07a-8459-498e-af79-0800144e229a" width="200"/></a>
+<a href="https://datapowered.ai/preview/CompanyFAQ"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/96705270/255431514-e72f3b74-6c26-4825-82e2-40c47e62eddf.png" width="200"/></a>
+<a href="https://datapowered.ai/preview/RestaurantMenu"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/96705270/255431517-df5ca678-f761-45ca-8239-81cee321ebbb.png" width="200"/></a>
+<a href="https://datapowered.ai/preview/Wikipedia"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/96705270/255431519-da90edc3-7024-4cbd-846d-610853f76326.png" width="200"/></a>
+<a href="https://datapowered.ai/preview/CityData"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/96705270/255431520-6319b07a-8459-498e-af79-0800144e229a.png" width="200"/></a>
 
 # Work in Progress
 
